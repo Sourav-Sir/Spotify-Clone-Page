@@ -22,5 +22,5 @@ Welcome to the Spotify Clone! Immerse yourself in the world of music with this l
 ## 🚀 Get Started
 
 1. Clone the repository: git clone https://github.com/Sourav-Sir/Spotify-Clone-Page
-2. Navigate to the project directory: cd Spotify-Clone-Page
-3. Open index.html in your preferred browser.
+2. Navigate to the project directory: cd [Spotify-Clone-Page](https://github.com/Sourav-Sir/Spotify-Clone-Page/tree/main/Spotifyy%20Clone)
+3. Open [index.html](https://github.com/Sourav-Sir/Spotify-Clone-Page/blob/main/Spotifyy%20Clone/index.html) in your preferred browser.
