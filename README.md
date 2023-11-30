@@ -1,5 +1,4 @@
 # Spotify-Clone-Page
-# Spotify Clone
 
 ## 🚀 Introduction
 
